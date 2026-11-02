@@ -1,0 +1,59 @@
+Spotify chart dataset inspection
+Source: Spotify chart datasets downloaded from Zenodo.
+Method: Python standard library; CSV.GZ files read directly without extraction. Full row counts and chart-date ranges scanned one row at a time.
+Original files were not modified.
+The downloaded folder also contained spotify_top200_positions_2026 (1).csv.gz (6,354,091 bytes), a same-sized duplicate candidate. Its data was not added to this project and was not counted in the 324,800 yearly chart records below.
+Source paths use %USERPROFILE% to avoid embedding a personal Windows account path.
+
+==============================================================================
+Filename: spotify_top200_positions_2024.csv.gz
+Path: %USERPROFILE%\Downloads\spotify_top200_positions_2024.csv.gz
+File size: 7,685,991 bytes (7.33 MiB)
+Columns: ['cc', 'week_end', 'rank', 'prev_rank', 'peak', 'appearances', 'streams', 'entry_status', 'track_id', 'title', 'artists', 'artist_uris', 'release_date']
+Chart date column: week_end
+Earliest chart date: 2024-01-04
+Latest chart date: 2024-12-26
+Number of rows: 114,400
+First 5 rows:
+cc | week_end | rank | prev_rank | peak | appearances | streams | entry_status | track_id | title | artists | artist_uris | release_date
+ar | 2024-01-04 | 1 | 1 | 1 | 26 | 4655759 | NO_CHANGE | 7aPsseax6rNFyipHn9A5CR | La Morocha | Luck Ra | BM | spotify:artist:4kcQWQDK0u9AftVSpdrAgk | spotify:artist:5TP8Ubo4jLKEi4Mw2O8fAk | 2023-07-07
+ar | 2024-01-04 | 2 | 2 | 1 | 9 | 3640170 | NO_CHANGE | 6Es8Sk3xe1HiJ2MXCfHHwR | La_Original.mp3 | Emilia | TINI | spotify:artist:0AqlFI0tz2DsEoJlKSIiT9 | spotify:artist:7vXDAI8JwjW531ouMGbfcp | 2023-11-03
+ar | 2024-01-04 | 3 | 3 | 3 | 10 | 3536224 | NO_CHANGE | 1NMbORRsowjN8q000xlJ8l | QUE ME FALTE TODO | Luck Ra | Abel Pintos | spotify:artist:4kcQWQDK0u9AftVSpdrAgk | spotify:artist:6HTUcOExehqydqa7C3usAa | 2023-10-26
+ar | 2024-01-04 | 4 | 4 | 3 | 9 | 3058339 | NO_CHANGE | 5f4mOETLngamMDTJnbF9s7 | Exclusive.mp3 | Emilia | spotify:artist:0AqlFI0tz2DsEoJlKSIiT9 | 2023-11-03
+ar | 2024-01-04 | 5 | 6 | 5 | 4 | 3018837 | MOVED_UP | 6gV8ALkSHfJi7Bprabr1FC | Inocente | Roze Oficial | Peipper | spotify:artist:2Hxu0Wmd7FUm0euCVInVrN | spotify:artist:4i2al9gevm5K5OlbjqzcJs | 2023-12-01
+
+
+==============================================================================
+Filename: spotify_top200_positions_2025.csv.gz
+Path: %USERPROFILE%\Downloads\spotify_top200_positions_2025.csv.gz
+File size: 7,612,493 bytes (7.26 MiB)
+Columns: ['cc', 'week_end', 'rank', 'prev_rank', 'peak', 'appearances', 'streams', 'entry_status', 'track_id', 'title', 'artists', 'artist_uris', 'release_date']
+Chart date column: week_end
+Earliest chart date: 2025-01-02
+Latest chart date: 2025-12-25
+Number of rows: 114,400
+First 5 rows:
+cc | week_end | rank | prev_rank | peak | appearances | streams | entry_status | track_id | title | artists | artist_uris | release_date
+ar | 2025-01-02 | 1 | 1 | 1 | 17 | 3355970 | NO_CHANGE | 5MKbWaXeSQSmzmo7gPQha1 | Amor de Vago | La T y La M | Malandro | spotify:artist:1FxPMQ9A0882eNDx3ZkD6B | spotify:artist:6Gsh7oJoJ5EQUuQk0EhfWL | 2024-08-23
+ar | 2025-01-02 | 2 | 5 | 2 | 3 | 2862611 | MOVED_UP | 7yif9yIhSCxhcPExFOktCp | Olvidarte (feat. Emilia) | Gordo | Emilia | spotify:artist:4Ge9GwmWnOQsohwPTrXyHc | spotify:artist:0AqlFI0tz2DsEoJlKSIiT9 | 2024-12-13
+ar | 2025-01-02 | 3 | 2 | 1 | 28 | 2281528 | MOVED_DOWN | 6WatFBLVB0x077xWeoVc2k | Si Antes Te Hubiera Conocido | KAROL G | spotify:artist:790FomKkXshlbRYZFtlgla | 2024-06-21
+ar | 2025-01-02 | 4 | -1 | 4 | 1 | 2227154 | NEW_ENTRY | 5AGnkbWCiF9u4ra54N9X1a | Luck Ra: Bzrp Music Sessions, Vol. 61/66 | Bizarrap | Luck Ra | spotify:artist:716NhGYqD1jl2wI1Qkgq36 | spotify:artist:4kcQWQDK0u9AftVSpdrAgk | 2024-12-27
+ar | 2025-01-02 | 5 | 3 | 1 | 21 | 2193064 | MOVED_DOWN | 0c82YIGpQ5dCaXpTNCk4sb | Alegría | Tiago PZK | Anitta | Emilia | spotify:artist:5Y3MV9DZ0d87NnVm56qSY1 | spotify:artist:7FNnA9vBm6EKceENgCGRMb | spotify:artist:0AqlFI0tz2DsEoJlKSIiT9 | 2024-07-04
+
+
+==============================================================================
+Filename: spotify_top200_positions_2026.csv.gz
+Path: %USERPROFILE%\Downloads\spotify_top200_positions_2026.csv.gz
+File size: 6,354,091 bytes (6.06 MiB)
+Columns: ['cc', 'week_end', 'rank', 'prev_rank', 'peak', 'appearances', 'streams', 'entry_status', 'track_id', 'title', 'artists', 'artist_uris', 'release_date']
+Chart date column: week_end
+Earliest chart date: 2026-01-01
+Latest chart date: 2026-10-15
+Number of rows: 96,000
+First 5 rows:
+cc | week_end | rank | prev_rank | peak | appearances | streams | entry_status | track_id | title | artists | artist_uris | release_date
+ar | 2026-01-01 | 1 | 1 | 1 | 32 | 2887115 | NO_CHANGE | 6X8DTIJEgHUjZynuds0E2f | Tu jardín con enanitos | Roze Oficial | Max Carra | Valen | RAMKY EN LOS CONTROLES | spotify:artist:2Hxu0Wmd7FUm0euCVInVrN | spotify:artist:483P9cJ9pdCoc08XvNunPL | spotify:artist:4OpKA1Qx8VYnSmrhKQ4zJz | spotify:artist:6jXFmaC0CvsIRSzxapsnNd | 2025-05-22
+ar | 2026-01-01 | 2 | 2 | 2 | 13 | 2204003 | NO_CHANGE | 44xDy4h27s4ENaC8fKnCoC | Cuando No Era Cantante | El Bogueto | Yung Beef | spotify:artist:3S9Hg7sRKhmtWunFZ2yAYP | spotify:artist:1rTUwYS38LkQTlT2fhikch | 2024-09-26
+ar | 2026-01-01 | 3 | 4 | 3 | 4 | 2103981 | MOVED_UP | 3TfRpsYPQSXqqramSoWlNg | Soy Favela | La T y La M | spotify:artist:1FxPMQ9A0882eNDx3ZkD6B | 2025-12-04
+ar | 2026-01-01 | 4 | 3 | 1 | 8 | 1935615 | MOVED_DOWN | 4oVO4fGNRRvEn0CRuFO4qv | La Perla | ROSALÍA | Yahritza Y Su Esencia | spotify:artist:7ltDVBr6mKbRvohxheJ9h1 | spotify:artist:51ZSh80McCt7vbqHouzW0A | 2025-11-07
+ar | 2026-01-01 | 5 | 5 | 3 | 24 | 1807567 | NO_CHANGE | 6uiQ0DqbXTBc8tl0AUKZkR | TU VAS SIN (fav) | Rels B | spotify:artist:2IMZYfNi21MGqxopj9fWx8 | 2025-06-20
