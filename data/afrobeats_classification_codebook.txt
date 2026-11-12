@@ -1,0 +1,125 @@
+Afrobeats track-classification codebook
+Draft for capstone use — evidence standard remains provisional
+
+Purpose
+Classify tracks for the capstone question: Which international markets offer
+the greatest growth opportunities for emerging Afrobeats artists?
+
+1. Study definition
+
+For this study, Afrobeats is a track-level genre classification: the track is
+labeled Afrobeats when reliable, track-specific evidence identifies it as
+Afrobeats or clearly places it within the contemporary Afrobeats genre used in
+this study.
+
+Do not infer the genre from the artist's nationality, name, language,
+collaborators, or the market where the track charted. Artist or market context
+may guide research but cannot establish a track's classification.
+
+Needs external source support: A cited definition of contemporary Afrobeats
+and the authority or sources accepted as evidence for genre attribution.
+
+2. Afrobeats versus Afrobeat
+
+Treat Afrobeats and Afrobeat as separate labels:
+- Afrobeats refers to the contemporary genre intended by this study.
+- Afrobeat refers to a distinct genre label. A track identified only as
+  Afrobeat is not Afrobeats for this codebook.
+- If reliable sources use both labels, or use a spelling without enough
+  context to tell which genre is intended, label the track
+  uncertain/unclassified until resolved.
+
+Needs external source support: A sourced distinction between the genres,
+including how to interpret source labels that may use the terms inconsistently.
+
+3. Collaborations and cross-genre tracks
+
+Classify the track, not every artist on it.
+- A collaboration qualifies when reliable evidence identifies the track itself
+  as Afrobeats, even if one or more credited artists are associated with other
+  genres.
+- A track described as a fusion or cross-genre work qualifies when the
+  evidence explicitly includes Afrobeats as a genre or substantial stylistic
+  component.
+- An Afrobeats-associated artist's feature or appearance alone is not
+  sufficient.
+- If sources identify only another genre, classify as not Afrobeats. If
+  evidence is mixed or too vague to decide, use uncertain/unclassified.
+
+Needs external source support: The threshold for treating Afrobeats as a
+substantial stylistic component in a fusion track. Until supported, prefer
+explicit track-level genre descriptions and send borderline cases to
+uncertain/unclassified.
+
+4. Classification labels
+
+Afrobeats
+  Adequate track-specific evidence supports the study definition.
+
+Not Afrobeats
+  Adequate evidence identifies the track as another genre, or as Afrobeat
+  alone, with no qualifying Afrobeats evidence.
+
+Uncertain/unclassified
+  Evidence is missing, ambiguous, conflicting, or insufficient to apply the
+  rules consistently. Do not force a binary decision when evidence is
+  inconclusive.
+
+5. Evidence to record for each track
+
+Record enough information for another researcher to reproduce the decision:
+- Track title and stable identifier, such as the dataset's track_id.
+- Recording/release version when sources distinguish versions.
+- Classification label and date of decision.
+- Source name, source type, direct URL or persistent identifier, access date,
+  and relevant quotation or concise paraphrase.
+- Whether the evidence is specifically about the track, an album, or only the
+  artist.
+- The source's exact genre wording, preserving distinctions such as
+  Afrobeats and Afrobeat.
+- Decision rationale, including collaboration or cross-genre considerations.
+- Reviewer name/initials and any adjudication outcome.
+
+Needs external source support: An approved source hierarchy and minimum
+evidence threshold. Until agreed, record all sources consulted and avoid
+treating a single weak or unspecific mention as conclusive.
+
+6. Conflicts and ambiguous cases
+
+When sources conflict, record each source and its wording. Prefer direct,
+track-specific evidence over artist biographies or broad catalog descriptions,
+subject to the source hierarchy adopted for the study. If credible
+track-specific sources remain in conflict, label uncertain/unclassified and
+flag for review.
+
+For ambiguous wording—especially Afrobeat versus Afrobeats—do not silently
+normalize the label. Seek clarifying evidence; otherwise leave the track
+uncertain/unclassified. Keep a decision log so that later adjudications are
+applied consistently.
+
+Needs external source support: The final source hierarchy, conflict-resolution
+rule, and who adjudicates unresolved cases.
+
+7. Prohibited shortcuts
+
+A track must not be classified as Afrobeats solely because:
+- An artist is Nigerian, Ghanaian, or from another country associated with the
+  genre.
+- An artist's name or public image seems culturally associated with Afrobeats.
+- The track charted in an African or other particular market.
+- The artist is commonly described as an Afrobeats artist.
+- A collaborator is associated with Afrobeats.
+
+These facts may help locate sources, but classification requires track-specific
+evidence.
+
+Evidence standard — provisional
+
+This standard is provisional and has not been externally validated.
+- Track-specific evidence is required.
+- Record every source consulted and its exact genre wording.
+- Prefer direct track-level sources over artist-level descriptions.
+- If evidence is missing, ambiguous, or conflicting, use
+  uncertain/unclassified.
+- Do not classify a track as not Afrobeats merely because no Afrobeats evidence
+  was found.

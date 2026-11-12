@@ -1,0 +1,14 @@
+Spotify Chart Data Summary
+
+The Spotify Top 200 compressed CSV files were inspected directly. One archive per year was included; the duplicate 2026 archive was excluded.
+
+Yearly results
+- 2024: 114,400 rows; 14,051 unique tracks; 38 markets.
+- 2025: 114,400 rows; 14,825 unique tracks; 38 markets.
+- 2026 through 2026-10-15: 96,000 rows; 12,124 unique tracks; 38 markets.
+
+Combined results (2024–2026)
+- Rows: 324,800.
+- Unique tracks: 31,376.
+- Unique markets: 38.
+- Chart date range: 2024-01-04 to 2026-10-15.

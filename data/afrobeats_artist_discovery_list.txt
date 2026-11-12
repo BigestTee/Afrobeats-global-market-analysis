@@ -1,0 +1,181 @@
+# Afrobeats and related African popular music artist discovery list
+#
+# This broad list is a search aid for finding Spotify chart records that may
+# warrant review. Inclusion does not assert that an artist or any of their
+# tracks belongs to Afrobeats. Artist matching is a discovery method only,
+# not genre verification. Classification must follow the project codebook and
+# rely on adequate track-specific evidence.
+#
+# Format: one artist per line; use | to separate known name variants/aliases.
+# Matching is exact after case, accent, spacing and punctuation normalization.
+# The list intentionally spans contemporary West African popular music,
+# amapiano and related African pop/crossover scenes to favor candidate recall.
+
+# Nigeria and Nigerian diaspora popular music
+Nigeria discovery names: Wizkid | Ayodeji Balogun
+Nigeria discovery names: Burna Boy | Damini Ogulu
+Nigeria discovery names: Davido | David Adeleke
+Nigeria discovery names: Rema | Divine Ikubor
+Nigeria discovery names: Tems | Temilade Openiyi
+Nigeria discovery names: Ayra Starr | Oyinkansola Aderibigbe
+Nigeria discovery names: Fireboy DML | Fireboy
+Nigeria discovery names: Omah Lay | Omah Stanley Didia
+Nigeria discovery names: Asake | Ahmed Ololade
+Nigeria discovery names: Joeboy | Joseph Akinfenwa
+Nigeria discovery names: Kizz Daniel | Kiss Daniel
+Nigeria discovery names: Tekno | Tekno Miles
+Nigeria discovery names: Yemi Alade
+Nigeria discovery names: Tiwa Savage
+Nigeria discovery names: Seyi Vibez
+Nigeria discovery names: Shallipopi
+Nigeria discovery names: Young Jonn | Young John
+Nigeria discovery names: Blaqbonez
+Nigeria discovery names: Oxlade
+Nigeria discovery names: Victony
+Nigeria discovery names: BNXN | Buju
+Nigeria discovery names: Ruger
+Nigeria discovery names: CKay
+Nigeria discovery names: Pheelz
+Nigeria discovery names: Lojay
+Nigeria discovery names: Adekunle Gold | Adekunle Kosoko
+Nigeria discovery names: Mr Eazi
+Nigeria discovery names: Chike
+Nigeria discovery names: Mohbad
+Nigeria discovery names: Zlatan
+Nigeria discovery names: Naira Marley
+Nigeria discovery names: Mayorkun
+Nigeria discovery names: Peruzzi
+Nigeria discovery names: Teni
+Nigeria discovery names: Wande Coal
+Nigeria discovery names: Flavour | Flavour N'abania
+Nigeria discovery names: Phyno
+Nigeria discovery names: 2Baba | 2Face Idibia
+Nigeria discovery names: D'banj | DBanj
+Nigeria discovery names: P-Square | Psquare
+Nigeria discovery names: Duncan Mighty
+Nigeria discovery names: Harrysong
+Nigeria discovery names: Timaya
+Nigeria discovery names: 9ice
+Nigeria discovery names: Omawumi
+Nigeria discovery names: Waje
+Nigeria discovery names: Niniola
+Nigeria discovery names: Simi
+Nigeria discovery names: Falz
+Nigeria discovery names: M.I Abaga | MI Abaga
+Nigeria discovery names: Show Dem Camp
+Nigeria discovery names: Ladipoe
+Nigeria discovery names: Ajebo Hustlers
+Nigeria discovery names: Fave
+Nigeria discovery names: Qing Madi
+Nigeria discovery names: Bloody Civilian
+Nigeria discovery names: Spyro
+Nigeria discovery names: Bnxn
+Nigeria discovery names: Dremo
+Nigeria discovery names: Bella Shmurda
+Nigeria discovery names: Taves
+Nigeria discovery names: Ayo Maff
+Nigeria discovery names: Seyi Shay
+Nigeria discovery names: DJ Spinall
+Nigeria discovery names: Sarz
+Nigeria discovery names: Cobhams Asuquo
+Nigeria discovery names: Patoranking
+Nigeria discovery names: Yung L
+Nigeria discovery names: Wizkid | Starboy
+
+# Ghanaian and other West African popular music artists
+West African artist names: Sarkodie
+West African artist names: Shatta Wale
+West African artist names: Stonebwoy
+West African artist names: KiDi
+West African artist names: Kuami Eugene
+West African artist names: King Promise
+West African artist names: Black Sherif
+West African artist names: Gyakie
+West African artist names: Wendy Shay
+West African artist names: Becca
+West African artist names: R2Bees
+West African artist names: MzVee
+West African artist names: Amaarae
+West African artist names: Mr Drew
+West African artist names: Camidoh
+West African artist names: Olivetheboy
+West African artist names: Medikal
+West African artist names: Kwesi Arthur
+West African artist names: E.L
+West African artist names: Bisa Kdei
+West African artist names: Kofi Kinaata
+West African artist names: DopeNation
+West African artist names: Lasmid
+West African artist names: Joeboy
+West African artist names: Runtown
+West African artist names: King Sunny Ade
+West African artist names: Fela Kuti
+West African artist names: Youssou N'Dour
+West African artist names: Salif Keita
+West African artist names: Magic System
+West African artist names: Meiway
+West African artist names: Josey
+West African artist names: Toofan
+West African artist names: Didi B
+West African artist names: Wizkid
+
+# South African, amapiano and wider African pop/crossover discovery
+African pop/crossover names: Tyla
+African pop/crossover names: Focalistic
+African pop/crossover names: Kabza De Small
+African pop/crossover names: DJ Maphorisa
+African pop/crossover names: Sha Sha
+African pop/crossover names: Uncle Waffles
+African pop/crossover names: Musa Keys
+African pop/crossover names: Young Stunna
+African pop/crossover names: Mellow & Sleazy
+African pop/crossover names: Major League DJz
+African pop/crossover names: Nasty C
+African pop/crossover names: Master KG
+African pop/crossover names: Nomcebo Zikode
+African pop/crossover names: Black Coffee
+African pop/crossover names: Elaine
+African pop/crossover names: Cassper Nyovest
+African pop/crossover names: K.O
+African pop/crossover names: Sho Madjozi
+African pop/crossover names: Lloyiso
+African pop/crossover names: Diamond Platnumz
+African pop/crossover names: Harmonize
+African pop/crossover names: Zuchu
+African pop/crossover names: Ali Kiba
+African pop/crossover names: Rayvanny
+African pop/crossover names: Sauti Sol
+African pop/crossover names: Bien
+African pop/crossover names: Nikita Kering
+African pop/crossover names: Khaligraph Jones
+African pop/crossover names: Nviiri the Storyteller
+African pop/crossover names: Bensoul
+African pop/crossover names: Eddy Kenzo
+African pop/crossover names: Spice Diana
+African pop/crossover names: Jose Chameleone
+African pop/crossover names: Azawi
+African pop/crossover names: Fik Fameica
+African pop/crossover names: Bruce Melodie
+African pop/crossover names: The Ben
+African pop/crossover names: Meddy
+African pop/crossover names: Innoss'B
+African pop/crossover names: Fally Ipupa
+African pop/crossover names: Dadju
+African pop/crossover names: Gims
+African pop/crossover names: Ninho
+African pop/crossover names: Tayc
+African pop/crossover names: Aya Nakamura
+African pop/crossover names: Franglish
+African pop/crossover names: Dobet Gnahore
+African pop/crossover names: Josey
+African pop/crossover names: Yemi Alade
+African pop/crossover names: Angélique Kidjo
+African pop/crossover names: Sarkodie
+African pop/crossover names: WurlD
+African pop/crossover names: Amaarae
+
+# Review reminder
+# Exact artist-credit matches create discovery candidates only. A credited
+# artist may work across genres, and collaborations do not verify the genre of
+# a track. Apply the track-specific evidence rules in the classification
+# codebook before assigning any classification.

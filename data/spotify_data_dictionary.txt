@@ -1,0 +1,78 @@
+Spotify Top 200 cleaned dataset — data dictionary
+
+Dataset: data/spotify_top200_cleaned.csv
+Rows: 324,800 chart records
+Columns: 13 (original source columns and order preserved)
+
+Record grain
+Each row represents a track × market × chart week record. `cc` identifies
+the market and `week_end` the chart week/date. The dataset covers 38 markets.
+
+Columns
+
+cc
+  Market/country code as supplied by the source. Exact code standard and
+  interpretation need confirmation.
+
+week_end
+  Chart week/date as supplied by the source. Stored as an ISO date in the
+  inspected records; the source calls this the chart date column.
+
+rank
+  Track's chart position for that record. Source examples show integer
+  positions (1–200); exact ranking/tie rules need confirmation.
+
+prev_rank
+  Previous chart position as supplied by the source. `-1` is a special marker
+  for no previous chart position, not an ordinary rank. Other values appear
+  to be positions; exact comparison-period rules need confirmation.
+
+peak
+  Source field associated with a track's peak chart position. Exact scope
+  (for example, market or period) needs confirmation.
+
+appearances
+  Source field associated with the number of chart appearances. Exact counting
+  scope and period need confirmation.
+
+streams
+  Stream count/value reported for the chart record, as supplied by the source.
+  Exact counting window and methodology need confirmation.
+
+entry_status
+  Source-provided chart entry/movement status (examples include NEW_ENTRY,
+  NO_CHANGE, MOVED_UP, and MOVED_DOWN). Complete category meanings need
+  confirmation.
+
+track_id
+  Track identifier as supplied by the source. Identifier scheme and whether
+  it is a Spotify track ID need confirmation.
+
+title
+  Track title as supplied by the source. Missing values remain blank.
+
+artists
+  Artist name value(s) as supplied by the source. Missing values remain
+  blank. Delimiter/encoding of multiple artists needs confirmation.
+
+artist_uris
+  Artist URI value(s) as supplied by the source. Missing values remain blank.
+  Delimiter/encoding of multiple URIs needs confirmation.
+
+release_date
+  Release date value as supplied by the source. Missing values remain blank.
+  Date meaning (track, recording, or release version) needs confirmation.
+
+Source coverage and preparation
+The cleaned CSV combines these three canonical Spotify Top 200 archives:
+- spotify_top200_positions_2024.csv.gz — 114,400 rows; 2024-01-04 to
+  2024-12-26.
+- spotify_top200_positions_2025.csv.gz — 114,400 rows; 2025-01-02 to
+  2025-12-25.
+- spotify_top200_positions_2026.csv.gz — 96,000 rows; 2026-01-01 to
+  2026-10-15.
+
+Overall chart-date coverage is 2024-01-04 to 2026-10-15. The duplicate
+2026 archive candidate, spotify_top200_positions_2026 (1).csv.gz, was excluded.
+The cleaned CSV preserves the original source columns and values; blank title,
+artists, and release_date values remain blank.
